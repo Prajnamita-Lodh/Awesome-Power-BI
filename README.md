@@ -584,5 +584,8 @@ Reporting is just the presentation of data , but story telling is more engaging.
 * [Data Scientist job description](https://resources.workable.com/data-scientist-job-description)
 * [List of Job Descriptions](https://resources.workable.com/job-descriptions/)
 * [Power BI is Hiring](https://dxt.powerbi.com/view?r=eyJrIjoiOWNlOGZiZjMtNTVlYy00ZWVmLThkNDgtYzUzZTAxODE5OWM1IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjJ9) - Microsoft
-
+-----
+## Power BI Certification:
+The PL-300 certification, also known as the Microsoft Power BI Data Analyst Associate, is an intermediate-level certification for data analysts. Microsoft offers a 12-month renewal option for maintaining certification validity.
+* [Microsoft Power BI Data Analyst Associate - PL-300 certification](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification)
 <br/>[:top:](#table-of-contents)
